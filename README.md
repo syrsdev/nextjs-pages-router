@@ -7,6 +7,11 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 -routing & dinamic route
 -pages & layout
 -navigtaion & link
+-styling
+ -use & refactor css module
+ -inline style
+ -sass
+ -tailwind
 ```
 
 ## Getting Started

@@ -1,8 +1,9 @@
 import React from "react";
+import style from "./navbar.module.css";
 
 const Navbar = () => {
     return (
-        <div className="navbar">
+        <div className={style.navbar}>
             <h2>Ini Navbar</h2>
         </div>
     );
