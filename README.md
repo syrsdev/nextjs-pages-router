@@ -5,6 +5,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 -instalation with pages router
 -routing & dinamic route
 -pages & layout
+-navigtaion & link
 
 ## Getting Started
 
