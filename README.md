@@ -2,10 +2,12 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## What i try in this repo
 
+```bash
 -instalation with pages router
 -routing & dinamic route
 -pages & layout
 -navigtaion & link
+```
 
 ## Getting Started
 
