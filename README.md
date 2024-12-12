@@ -14,6 +14,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
  -tailwind
 -document folder
 -custom error page
+-API routes
+-firebase integration
 ```
 
 ## Getting Started
