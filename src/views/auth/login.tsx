@@ -10,7 +10,7 @@ const LoginPageView = () => {
     };
     return (
         <div className={style.login}>
-            <h1 className="text-3xl text-red-700 font-bold">Login</h1>
+            <h1 className="text-3xl font-bold text-red-700">Login</h1>
             <button onClick={() => handleLogin()}>login</button>
             <p>
                 Belum punya akun ya?{" "}
