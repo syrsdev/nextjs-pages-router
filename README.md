@@ -16,6 +16,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 -custom error page
 -API routes
 -firebase integration
+-make env file
 ```
 
 ## Getting Started
