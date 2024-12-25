@@ -5,7 +5,7 @@ import Head from "next/head";
 const NotFoundPage = () => {
     return (
         <>
-            <Head children={undefined}></Head>
+            <Head>404</Head>
             <div className={style.error}>
                 <img src="/404.svg" alt="404" className={style.error_img} />
                 <h1>Gak ada nih page yang kamu cari</h1>

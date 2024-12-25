@@ -5,6 +5,7 @@ import type { NextApiRequest, NextApiResponse } from "next";
 type Data = {
     status: boolean;
     statusCode: number;
+    // eslint-disable-next-line  @typescript-eslint/no-explicit-any
     data: any;
 };
 
