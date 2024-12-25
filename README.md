@@ -8,15 +8,17 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 -pages & layout
 -navigtaion & link
 -styling
- -use & refactor css module
- -inline style
- -sass
- -tailwind
+ --use & refactor css module
+ --inline style
+ --sass
+ --tailwind
 -document folder
 -custom error page
 -API routes
 -firebase integration
 -make env file
+-skeleton loading
+-SWR hooks
 ```
 
 ## Getting Started
