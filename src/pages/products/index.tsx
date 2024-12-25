@@ -1,6 +1,5 @@
 import { fetcher } from "@/lib/swr/fetcher";
 import ProductsView from "@/views/products";
-import { log } from "console";
 import { useRouter } from "next/router";
 import { useEffect, useState } from "react";
 import useSWR from "swr";
