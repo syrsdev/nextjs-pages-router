@@ -17,8 +17,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 -API routes
 -firebase integration
 -make env file
--skeleton loading
--SWR hooks
+-Client Side Rendering
+ --skeleton loading
+ --SWR hooks
+-Server Side Rendering
 ```
 
 ## Getting Started
